@@ -1,6 +1,6 @@
 #README 
 
-![a.gif](http://i.giphy.com/3o6ZsYmRkjQzX1KcQU.gif)
+![aaa](http://i.giphy.com/3o6ZsYmRkjQzX1KcQU.gif)
 
 すでにあるゲームのコードをいじることでプログラミングを楽しく効率良く学ぼうという試みです。
 
