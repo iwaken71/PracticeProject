@@ -1,6 +1,6 @@
 #README 
 
-![aaa](http://i.giphy.com/3o6ZsYmRkjQzX1KcQU.gif)
+[元のQiita記事](http://qiita.com/tanaka_lit/items/1131cd9e47ff26d0194b)
 
 すでにあるゲームのコードをいじることでプログラミングを楽しく効率良く学ぼうという試みです。
 
